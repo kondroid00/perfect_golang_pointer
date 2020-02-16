@@ -1,0 +1,2 @@
+# perfect_golang_pointer
+「Goのポインタを完全に理解する本」に掲載しているサンプルコードです
